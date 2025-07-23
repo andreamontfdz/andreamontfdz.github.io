@@ -153,7 +153,7 @@ button {
   cursor: pointer;
   margin-top: 20px;
   margin-bottom: 20px;
-  margin-left: 100px;
+  margin-left: 50px;
 }
 
 .quote-input {
@@ -162,5 +162,5 @@ button {
   font-size: 16px;
   border: 1px solid #fff9fb;
   border-radius: 6px;
-  margin-left: 100px;
+  margin-left: 50px;
 }
