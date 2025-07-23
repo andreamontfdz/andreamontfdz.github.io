@@ -141,8 +141,8 @@ button {
 }
 
 #close-popup {
-  float: right;
-  font-size: 20px;
+  float: left;
+  font-size: 25px;
 }
 
 .quote-box {
